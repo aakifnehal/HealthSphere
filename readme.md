@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🏥 HealthSphere
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
@@ -7,21 +9,14 @@
 
 > **Revolutionizing healthcare documentation with AI-powered insights and role-based access control**
 
+![Admin Dashboard](assets/admin-dashboard.png)
+
+</div>
+
 
 ## 🎯 Project Overview
 
 HealthSphere is an advanced healthcare document management system that combines **Retrieval-Augmented Generation (RAG)** with **Role-Based Access Control (RBAC)** to provide intelligent, contextual responses to medical queries. The system enables healthcare professionals to interact with vast amounts of medical documentation through natural language processing, while ensuring proper access controls based on user roles.
-
-### 🎯 Primary Purpose
-
-The main purpose of creating HealthSphere is to provide healthcare professionals with **better understanding of medical history** by:
-
-- **Intelligent Document Analysis**: Combining patient medical history with relevant medical documents
-- **Contextual Information Retrieval**: AI-powered search through medical literature and patient records
-- **Secure Access Management**: Role-based document access ensuring HIPAA compliance
-- **Real-time Medical Insights**: Instant answers to complex medical queries with source citations
-
----
 
 ## 🚀 Why HealthSphere?
 
@@ -42,39 +37,6 @@ The main purpose of creating HealthSphere is to provide healthcare professionals
 - **🛡️ Secure by Design**: Role-based access ensures data protection
 - **📚 Comprehensive Knowledge Base**: Centralized medical document repository
 - **🤖 AI-Powered Insights**: Intelligent responses with source attribution
-
----
-
-## ✨ Core Features
-
-### 🔐 **Authentication & Authorization**
-- **Multi-role Support**: Admin, Doctor, Nurse, Patient, and Custom roles
-- **Secure Login System**: Password hashing with bcrypt
-- **Session Management**: Persistent user sessions with role-based UI
-
-### 📄 **Document Management**
-- **PDF Upload System**: Secure document upload with role-based assignment
-- **Intelligent Processing**: Automatic text extraction and vectorization
-- **Access Control**: Documents accessible only to assigned roles
-- **Version Control**: Track document updates and changes
-
-### 🤖 **AI-Powered Chat Interface**
-- **Natural Language Queries**: Ask questions in plain English
-- **Context-Aware Responses**: Answers based on uploaded documents
-- **Source Attribution**: Clear citations for all provided information
-- **Role-Specific Responses**: Tailored answers based on user role
-
-### 👥 **Role-Based Access Control (RBAC)**
-- **Granular Permissions**: Fine-tuned access control per document
-- **Dynamic UI**: Interface adapts based on user role
-- **Audit Trail**: Complete logging of user actions
-- **Compliance Ready**: HIPAA and healthcare regulation compliant
-
-### 📊 **Advanced Analytics**
-- **Usage Statistics**: Track system utilization
-- **Document Analytics**: Monitor document access patterns
-- **User Activity**: Comprehensive audit logs
-- **Performance Metrics**: System health monitoring
 
 ---
 
